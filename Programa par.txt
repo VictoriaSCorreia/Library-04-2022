@@ -1,0 +1,22 @@
+/* VARIÁVEIS
+
+Real: N
+
+ENTRADA
+
+
+Mostre:  "Digite o numero: ";
+Receba: N
+
+PROCESSAMENTO
+
+
+Se (N%2 == 0)
+
+SAÍDA
+
+
+Mostre: "O numero " << N << "é par";
+
+Outro
+Mostre: "O numero " << N << "é impar";   */
